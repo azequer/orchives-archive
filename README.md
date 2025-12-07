@@ -1,9 +1,8 @@
-# orchives
+# orchives (archive)
 
 ## ORC Document Archive
 
-https://orchives.heliodex.cf
-
+Warning: This is a ARCHIVE of [orchives](https://orchives.heliodex.cf). I'll take it down if requested to.
 An archive site and collection of notable archived & re-transcribed documents relating to the Old Roblox Community.
 
 The documents here are attempts to maintain the same formatting as the original documents, but fix any spelling errors, organise them, and make them easier to read. No information in them has been changed, and information is given with no guarantee of accuracy or validity.
